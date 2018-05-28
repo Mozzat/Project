@@ -1,0 +1,6 @@
+module Pods_jike {
+  umbrella header "Pods-jike-umbrella.h"
+
+  export *
+  module * { export * }
+}
